@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 下载产物（不入库）
+*.pdf
+*.zip
+*.part
+.dl_*
+.downloaded.json
+manifest.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.swp
